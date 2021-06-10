@@ -1,14 +1,12 @@
-sentence: 1---hello,Whats up this is example of normal text
+sentence: 1---tweet-username: hello,Whats up this is example of normal text
 Profanity Degree : Null
-sentence: 2---its abusive sentence example bloody vebtvtbvtbfbgegrnbyrbytnby.
+sentence: 2---tweet-usr: its abusive sentence example bloody vebtvtbvtbfbgegrnbyrbytnby.
 Profanity Degree : mild
 sentence: 3---
 Profanity Degree : Null
-sentence: 4---we are checking anothor one,this is just for testing purposebastardxyzxyz hello.
+sentence: 4---tweet-user3 :we are checking anothor one,this is just for testing purposebastardxyzxyz hello.
 Profanity Degree : strong
 sentence: 5---
 Profanity Degree : Null
-sentence: 6---thank you.
-Profanity Degree : Null
-sentence: 7---
+sentence: 6---tweet-userrrr: thank you for your support
 Profanity Degree : Null
