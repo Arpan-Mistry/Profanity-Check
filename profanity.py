@@ -1,9 +1,9 @@
 # this progarm is made to detect racial slurs in each sentence of .txt file wich colud be useful many ways in social media
-# our aim of writing racial_slurs in racial_slurs.json file is just for detection and testing purpose
-# we strongly respect and maintain sincerity & we are always against profanity
 import json
-f = open("racial_slurs.json", 'r')
-json_obj = json.load(f)
+import requests
+#api build my for checking racial slurs
+r = requests.get('https://racial-slurs.herokuapp.com/').text
+json_obj = json.loads(r)
 
 
 def check(scaned):

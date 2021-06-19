@@ -8,5 +8,3 @@ sentence: 4---tweet-user3 :we are checking anothor one,this is just for testing 
 Profanity Degree : strong
 sentence: 5---
 Profanity Degree : Null
-sentence: 6---tweet-userrrr: thank you for your support
-Profanity Degree : Null

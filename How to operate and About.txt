@@ -3,7 +3,7 @@ this program colud useful for monitoring prfanity restriction in social media or
 
 How to use it? steps...
 1) must have python interpreter installed on system
-2) open folder containing github files (profanith.py & racial_slurs.json) 
+2) open folder containing github files (profanith.py) 
 3) make one text file with your tweet or inspection file and fill with you contet
 4) go to profanity.py file run it
 5) selecting appropriate options enter proper input file containg tweets or comments or whatever you want to inspect
