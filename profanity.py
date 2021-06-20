@@ -1,7 +1,7 @@
 # this progarm is made to detect racial slurs in each sentence of .txt file wich colud be useful many ways in social media
 import json
 import requests
-#api build my for checking racial slurs
+#api build by me for checking racial slurs
 r = requests.get('https://racialslurs.azurewebsites.net/').text
 json_obj = json.loads(r)
 
