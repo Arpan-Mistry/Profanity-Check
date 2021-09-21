@@ -2,7 +2,7 @@
 import json
 import requests
 #api build by me for checking racial slurs
-r = requests.get('https://racialslurs.azurewebsites.net/').text
+r = requests.get('https://racial-slurs.herokuapp.com/').text
 json_obj = json.loads(r)
 
 
